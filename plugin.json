@@ -3,6 +3,7 @@
     "license": "MIT",
     "pluginIcon": "icon_plugin_xs.png",
     "price": 0.0,
+    "author": "arvatis media GmbH",
     "authorIcon": "icon_author_xs.jpg",
     "name": "PlentyConnector",
     "type": "tool",
@@ -17,11 +18,16 @@
         "en": "PlentyConnector"
     },
     "description": "PlentyConnector",
-    "author": "arvatis media GmbH",
     "keywords": [
         "shopware",
         "plentymarkets"
     ],
+    "containers": [],
+    "dataProviders": [],
+    "javaScriptFiles": [],
+    "require": [],
+    "dependencies": [],
+    "runOnBuild": [],
     "email": "info@arvatis.com",
     "phone": "+49 (0)211 - 63 55 31 60",
     "categories": [
