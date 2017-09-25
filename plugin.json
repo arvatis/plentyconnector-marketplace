@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "license": "MIT",
+    "pluginIcon": "icon_plugin_xs.png",
+    "price": 0.0,
+    "authorIcon": "icon_author_xs.jpg",
+    "name": "PlentyConnector",
+    "marketplaceName": {
+        "de": "PlentyConnector",
+        "en": "PlentyConnector"
+    },
+    "shortDescription": {
+        "de": "PlentyConnector",
+        "en": "PlentyConnector"
+    },
+    "description": "PlentyConnector",
+    "author": "arvatis media GmbH",
+    "keywords": [
+        "shopware",
+        "plentymarkets",
+    ],
+    "email": "info@arvatis.com",
+    "phone": "+49 (0)211 - 63 55 31 60",
+    "categories": [
+        3519
+    ],
+    "isExternalTool": true,
+    "forwardLink": "http://store.shopware.com/plenty00735/plentymarkets-shopware-connector.html"
+}
