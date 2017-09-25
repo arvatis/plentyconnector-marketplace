@@ -1,38 +1,38 @@
 {
-    "version": "1.0.0",
-    "license": "MIT",
-    "pluginIcon": "icon_plugin_xs.png",
-    "price": 0.0,
-    "author": "arvatis media GmbH",
-    "authorIcon": "icon_author_xs.jpg",
     "name": "PlentyConnector",
-    "type": "tool",
-    "serviceProvider": "ServiceProvider",
-    "namespace": "PlentyConnector",
     "marketplaceName": {
         "de": "PlentyConnector",
         "en": "PlentyConnector"
     },
+    "namespace": "PlentyConnector",
+    "type": "tool",
+    "version": "1.0.0",
+    "license": "MIT",
+    "pluginIcon": "icon_plugin_xs.png",
+    "price": 0.00,
+    "description": "PlentyConnector",
     "shortDescription": {
         "de": "PlentyConnector",
         "en": "PlentyConnector"
     },
-    "description": "PlentyConnector",
-    "keywords": [
-        "shopware",
-        "plentymarkets"
+    "categories": [
+        "3519"
     ],
+    "keywords": [
+        "plugins",
+        "PlentyConnector",
+        "shopware",
+    ],
+    "author": "arvatis media GmbH",
+    "authorIcon": "icon_author_xs.jpg",
+    "email": "info@arvatis.com",
+    "serviceProvider": "ServiceProvider",
     "containers": [],
     "dataProviders": [],
     "javaScriptFiles": [],
     "require": [],
     "dependencies": [],
     "runOnBuild": [],
-    "email": "info@arvatis.com",
-    "phone": "+49 (0)211 - 63 55 31 60",
-    "categories": [
-        3519
-    ],
     "isExternalTool": true,
     "forwardLink": "http://store.shopware.com/plenty00735/plentymarkets-shopware-connector.html"
 }
