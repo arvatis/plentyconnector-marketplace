@@ -5,6 +5,9 @@
     "price": 0.0,
     "authorIcon": "icon_author_xs.jpg",
     "name": "PlentyConnector",
+    "type": "tool",
+    "serviceProvider": "ServiceProvider",
+    "namespace": "PlentyConnector",
     "marketplaceName": {
         "de": "PlentyConnector",
         "en": "PlentyConnector"
@@ -17,7 +20,7 @@
     "author": "arvatis media GmbH",
     "keywords": [
         "shopware",
-        "plentymarkets",
+        "plentymarkets"
     ],
     "email": "info@arvatis.com",
     "phone": "+49 (0)211 - 63 55 31 60",
