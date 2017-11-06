@@ -12,8 +12,8 @@
     "price": 0.00,
     "description": "PlentyConnector",
     "shortDescription": {
-        "de": "PlentyConnector",
-        "en": "PlentyConnector"
+        "de": "Shopware Connector für Plentymarkets",
+        "en": "Shopware Connector for Plentymarkets"
     },
     "categories": [
         "3521"

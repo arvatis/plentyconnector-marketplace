@@ -1,16 +1,16 @@
-![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
-
 # PlentyConnector plugin Shopware
 
-## <span class="c8">Produktinformationen
+## Produktinformationen
 
-Bitte beachten:
-
+<div class="alert alert-warning" role="alert">
+   <strong><i>Bitte beachten:</strong></i>
 Die Shopware Connector Version ab 2.0 (PSC7) ist ausschließlich für plentymarkets 7 geeignet! Bitte führen Sie kein Update des Connectors auf diese Version mit plentymarkets 6 durch.
+</div>
 
 Der neue plentymarkets Shopware Connector (PSC7) wurde durch unseren Expert Partner arvatis media entwickelt. Der neu entwickelte Connector bietet eine Vielzahl erweiterter Möglichkeiten für einen besseren und schnelleren Abgleich - als Basis dient die moderne REST-API.
 
 Nutzen Sie jetzt alle Vorteile des neuen plentymarkets 7 und der aktuellsten Shopware Version für die optimale eCommerce-Synergie aus Warenwirtschaft und individualisiertem Shop.
+
 
 ### Neuen Funktionen / neue Abgleiche des Connectors
 
@@ -26,7 +26,7 @@ Die arvatis media wird als betreuende Agentur ebenfalls einfache Supportfragen i
 
 Darüber hinaus erlaubt die modulare Opensource Gestaltung des neuen Connectors ebenfalls die individuelle Weiterentwicklung des Connectors oder die Bereitstellung neuer Funktionen für die Community über das[ ](https://www.google.com/url?q=https://github.com/plentymarkets/plentymarkets-shopware-connector/branches&sa=D&ust=1507645556708000&usg=AFQjCNF3KInI2eUu3AdOgvbt6eIPUjqjtg)<span class="c9">[GitHub Projekt](https://www.google.com/url?q=https://github.com/plentymarkets/plentymarkets-shopware-connector/branches&sa=D&ust=1507645556709000&usg=AFQjCNEc8D9qxJkLBgMuIuZbCvJZSSUOXg).
 
-## <span class="c8">Installationsanleitung
+## Installationsanleitung
 
 Für die Einrichtung Ihrer plentymarkets 7 und Shopware-Anbindung sind einige wichtige Voraussetzungen zwingend erforderlich, um eine dauerhaft reibungslose Synchronisation der Daten beider Systeme zu gewährleisten,
 
