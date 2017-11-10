@@ -6,11 +6,11 @@
     },
     "namespace": "PlentyConnector",
     "type": "tool",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "license": "MIT",
     "pluginIcon": "icon_plugin_xs.png",
     "price": 0.00,
-    "description": "PlentyConnector",
+    "description": "ShopwareConnector",
     "shortDescription": {
         "de": "Shopware Connector für Plentymarkets",
         "en": "Shopware Connector for Plentymarkets"

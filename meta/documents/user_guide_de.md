@@ -20,11 +20,11 @@ Auch die Fehlertoleranz wurde deutlich erhöht. So wird ein Abgleich bei einem F
 
 Es findet ein Merge anstelle des initialen Exports statt. Dadurch können beispielsweise Kategorien oder Artikel angelegt und editiert werden, ohne dass es beim Abgleich zu einem Problem kommt.
 
-Für eine detaillierte Auflistung möchten wir gerne auf das ausführliche[ ](https://www.google.com/url?q=https://docs.google.com/document/d/10mPeV3xqx4We71dYQdPmJK2qvb21Rpym6FG_tKwHKfc/edit?usp%3Dsharing&sa=D&ust=1507645556705000&usg=AFQjCNFBKAe5FIQiGcXF9GA-z2Uud2MKmQ)<span class="c9">[Handbuch vom PSC7](https://www.google.com/url?q=https://docs.google.com/document/d/10mPeV3xqx4We71dYQdPmJK2qvb21Rpym6FG_tKwHKfc/edit?usp%3Dsharing&sa=D&ust=1507645556706000&usg=AFQjCNEVv48pBAe8ezFN7q5-XRZZma-FXA) verweisen.
+Für eine detaillierte Auflistung möchten wir gerne auf das ausführliche[ ](https://docs.google.com/document/d/10mPeV3xqx4We71dYQdPmJK2qvb21Rpym6FG_tKwHKfc/)<span class="c9">[Handbuch vom PSC7](https://docs.google.com/document/d/10mPeV3xqx4We71dYQdPmJK2qvb21Rpym6FG_tKwHKfc/edit?usp%3Dsharing&sa=D&ust=1507645556706000&usg=AFQjCNEVv48pBAe8ezFN7q5-XRZZma-FXA) verweisen.
 
-Die arvatis media wird als betreuende Agentur ebenfalls einfache Supportfragen im[ ](https://www.google.com/url?q=https://forum.plentymarkets.com/c/shopware-connector&sa=D&ust=1507645556707000&usg=AFQjCNE_enSGlva-gtn1hLPZX90WtAVquA)<span class="c9">[Connector Forum](https://www.google.com/url?q=https://forum.plentymarkets.com/c/shopware-connector&sa=D&ust=1507645556707000&usg=AFQjCNE_enSGlva-gtn1hLPZX90WtAVquA) beantworten und freut sich jederzeit über konstruktive Kritik und weitere Anregungen zur fortlaufenden Optimierung.
+Die arvatis media wird als betreuende Agentur ebenfalls einfache Supportfragen im [Connector Forum](https://forum.plentymarkets.com/c/shopware-connector) beantworten und freut sich jederzeit über konstruktive Kritik und weitere Anregungen zur fortlaufenden Optimierung.
 
-Darüber hinaus erlaubt die modulare Opensource Gestaltung des neuen Connectors ebenfalls die individuelle Weiterentwicklung des Connectors oder die Bereitstellung neuer Funktionen für die Community über das[ ](https://www.google.com/url?q=https://github.com/plentymarkets/plentymarkets-shopware-connector/branches&sa=D&ust=1507645556708000&usg=AFQjCNF3KInI2eUu3AdOgvbt6eIPUjqjtg)<span class="c9">[GitHub Projekt](https://www.google.com/url?q=https://github.com/plentymarkets/plentymarkets-shopware-connector/branches&sa=D&ust=1507645556709000&usg=AFQjCNEc8D9qxJkLBgMuIuZbCvJZSSUOXg).
+Darüber hinaus erlaubt die modulare Opensource Gestaltung des neuen Connectors ebenfalls die individuelle Weiterentwicklung des Connectors oder die Bereitstellung neuer Funktionen für die Community über das [GitHub Projekt](https://github.com/plentymarkets/plentymarkets-shopware-connector/).
 
 ## Installationsanleitung
 
