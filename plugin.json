@@ -6,7 +6,7 @@
     },
     "namespace": "PlentyConnector",
     "type": "tool",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "MIT",
     "pluginIcon": "icon_plugin_xs.png",
     "price": 0.00,
