@@ -1,12 +1,12 @@
 {
-    "name": "PlentyConnector",
+    "name": "Shopware",
     "marketplaceName": {
-        "de": "PlentyConnector",
-        "en": "PlentyConnector"
+        "de": "Shopware Connector",
+        "en": "Shopware Connector"
     },
-    "namespace": "PlentyConnector",
+    "namespace": "ShopwareConnector",
     "type": "tool",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "license": "MIT",
     "pluginIcon": "icon_plugin_xs.png",
     "price": 0.00,
@@ -20,6 +20,8 @@
     ],
     "keywords": [
         "plugins",
+        "ShopwareConnector",
+        "PSC7",
         "PlentyConnector",
         "shopware"
     ],
