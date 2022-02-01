@@ -6,7 +6,7 @@
     },
     "namespace": "ShopwareConnector",
     "type": "tool",
-    "version": "5.3.0",
+    "version": "5.6.2",
     "license": "MIT",
     "pluginIcon": "icon_plugin_xs.png",
     "price": 0.00,
@@ -36,5 +36,5 @@
     "dependencies": [],
     "runOnBuild": [],
     "isExternalTool": true,
-    "forwardLink": "http://store.shopware.com/plenty00735/plentymarkets-shopware-connector.html"
+    "forwardLink": "https://shop.arvatis.com/pakete/37/1.-neuanbindung-plentymarkets/shopware-connector-psc7"
 }
